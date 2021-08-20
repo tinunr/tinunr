@@ -1,5 +1,13 @@
-## Ola sou a Tinú Monteiro 
-
+<pre>
+----------------------------------------
+<span>Tinú Monteiro, Hello World!!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
 ##
 <div> 
   <a href="https://instagram.com/tinunr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
