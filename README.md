@@ -9,8 +9,8 @@
 
 ##
  <div>
-  <img height="58%"  src="https://github-readme-stats.vercel.app/api?username=tinunr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinunr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="48%"  src="https://github-readme-stats.vercel.app/api?username=tinunr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinunr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg">
