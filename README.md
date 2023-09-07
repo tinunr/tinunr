@@ -15,9 +15,10 @@
 - 📫 Como chegar até mim **tinu5nr@gmail.com**
 
 - 📄 Conheça minhas experiências <a href="https://drive.google.com/file/d/1hXWVU_iRoNG2jvR8913IjJelq7KTAIko/view?usp=drive_link" target="blank">Curriculum</a>
-<br/>
-<br/>
-<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo 🤝 </h3>
 
 <p align="center">
