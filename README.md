@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 Ola, eu sou Tinú</h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinunr&label=Profile%20views&color=0e75b6&style=flat" alt="tinunr" /> </p>
 
