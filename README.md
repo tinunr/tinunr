@@ -22,6 +22,19 @@
 </br>
 </br>
 </br>
+
+ <h1 align="center">💻 GitHub Profile Stats</h1>
+
+<p align="center">
+    <a href="https://github.com/tinunr/github-readme-stats">
+	    <img alt="tinunr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tinunr&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinunr&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="tinunr" height="230px"/>
+<br/>
+
+<b>OBS:</b> As principais linguagem são apenas uma métrica das linguagem em que meu código público consiste e não refletem experiência ou nível de habilidade.
+
+  </p>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
