@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Ola, eu sou Tinú</h1>
+<h1 align="center">👋 Ola, eu sou Tinú Monteiro</h1>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
