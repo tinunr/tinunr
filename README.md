@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋 Ola, eu sou Tinú</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinunr&label=Profile%20views&color=0e75b6&style=flat" alt="tinunr" /> </p>
- 
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 Atualmente trabalho na <a href="https://unicv.edu.cv" target="blank">Universidade de Cabo Verde</a>
 
-- 🌱 No momento, estou trabalhando usando ReactJs, Flutter, PHP , Yiiframework 
+- 🌱 No momento, estou trabalhando usando ReactJs, Flutter, PHP , Yiiframework
 
-- 🌱  Atualmente estou aprendendo Sobre Teste
+- 🌱 Atualmente estou aprendendo Sobre Teste
 
 - 📫 Como chegar até mim **tinu5nr@gmail.com**
 
-- 📄 Conheça minhas experiências <a href="[https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf](https://drive.google.com/file/d/1hXWVU_iRoNG2jvR8913IjJelq7KTAIko/view?usp=drive_link)](https://drive.google.com/file/d/1hXWVU_iRoNG2jvR8913IjJelq7KTAIko/view?usp=drive_link)" target="blank">Curriculo</a>
+- 📄 Conheça minhas experiências <a href="https://drive.google.com/file/d/1hXWVU_iRoNG2jvR8913IjJelq7KTAIko/view?usp=drive_link" target="blank">Curriculum</a>
+<br/>
+<br/>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo 🤝 </h3>
 
@@ -40,4 +42,3 @@
       </div>
 
 </p>
- 
