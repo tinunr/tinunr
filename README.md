@@ -14,7 +14,7 @@
 
 - 📫 Como chegar até mim **tinu5nr@gmail.com**
 
-- 📄 Conheça minhas experiências <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf](https://drive.google.com/file/d/1hXWVU_iRoNG2jvR8913IjJelq7KTAIko/view?usp=drive_link)" target="blank">Curriculo</a>
+- 📄 Conheça minhas experiências <a href="[https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf](https://drive.google.com/file/d/1hXWVU_iRoNG2jvR8913IjJelq7KTAIko/view?usp=drive_link)](https://drive.google.com/file/d/1hXWVU_iRoNG2jvR8913IjJelq7KTAIko/view?usp=drive_link)" target="blank">Curriculo</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo 🤝 </h3>
 
@@ -40,18 +40,4 @@
       </div>
 
 </p>
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
+ 
