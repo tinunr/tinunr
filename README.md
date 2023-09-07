@@ -10,7 +10,7 @@
 
 - 🌱 No momento, estou trabalhando usando ReactJs, Flutter, PHP , Yiiframework 
 
-- 🌱  Atualmente estou aprendendo ReactJs && Teste
+- 🌱  Atualmente estou aprendendo Sobre Teste
 
 - 📫 Como chegar até mim **tinu5nr@gmail.com**
 
