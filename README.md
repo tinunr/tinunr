@@ -14,7 +14,7 @@
 
 - 📫 Como chegar até mim **tinu5nr@gmail.com**
 
-- 📄 Conheça minhas experiências <a href="[https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf](https://drive.google.com/file/d/1hXWVU_iRoNG2jvR8913IjJelq7KTAIko/view?usp=drive_link)" target="blank">Curriculo</a>
+- 📄 Conheça minhas experiências <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf](https://drive.google.com/file/d/1hXWVU_iRoNG2jvR8913IjJelq7KTAIko/view?usp=drive_link)" target="blank">Curriculo</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo 🤝 </h3>
 
